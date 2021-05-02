@@ -1,0 +1,3 @@
+files:
+  - source: /assets/thermal/lang/en_us.json
+    translation: /assets/thermal/lang/%language%.json
